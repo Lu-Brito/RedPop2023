@@ -3,9 +3,12 @@ RedPop2023
 
 This repository is intended to store the important files for the expanded summary that will be published by RedPop.
 
+#Planilha
+
 Planilha com as anotações realizadas após o período de isolamento: https://github.com/Lu-Brito/RedPop2023/blob/main/Caravana%20da%20Ci%C3%AAncia%202022%20.xlsx
 
-Gráficos:
+#Gráficos:
+
 Ações em 2022 - Proporção por região do estado do RJ: https://github.com/Lu-Brito/RedPop2023/blob/main/A%C3%A7%C3%B5es%20em%202022%20-%20propor%C3%A7%C3%A3o%20por%20munic%C3%ADpio.pdf
 
 Ações em 2022 - Proporção por município: https://github.com/Lu-Brito/RedPop2023/blob/main/A%C3%A7%C3%B5es%20em%202022%20-%20propor%C3%A7%C3%A3o%20por%20regi%C3%A3o%20do%20estado%20do%20RJ.pdf
