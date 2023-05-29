@@ -3,6 +3,8 @@ RedPop2023
 
 This repository is intended to store the important files for the expanded summary that will be published by RedPop.
 
+Planilha com as anotações realizadas após o período de isolamento: https://github.com/Lu-Brito/RedPop2023/blob/main/Caravana%20da%20Ci%C3%AAncia%202022%20.xlsx
+
 Questionário:
 
 1. Nome
