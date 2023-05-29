@@ -3,11 +3,11 @@ RedPop2023
 
 This repository is intended to store the important files for the expanded summary that will be published by RedPop.
 
-# Planilha
+## Planilha
 
 Planilha com as anotações realizadas após o período de isolamento: https://github.com/Lu-Brito/RedPop2023/blob/main/Caravana%20da%20Ci%C3%AAncia%202022%20.xlsx
 
-# Gráficos:
+## Gráficos:
 
 Ações em 2022 - Proporção por região do estado do RJ: https://github.com/Lu-Brito/RedPop2023/blob/main/A%C3%A7%C3%B5es%20em%202022%20-%20propor%C3%A7%C3%A3o%20por%20munic%C3%ADpio.pdf
 
@@ -17,7 +17,7 @@ Quantidade de visitantes por município 2022: https://github.com/Lu-Brito/RedPop
 
 Quantidade de visitantes às ações da Caravana da Ciência em 2022: https://github.com/Lu-Brito/RedPop2023/blob/main/Quantidade%20de%20visitantes%20%C3%A0s%20a%C3%A7%C3%B5es%20da%20Caravana%20da%20Ci%C3%AAncia%20em%202022.pdf
 
-# Questionário:
+## Questionário:
 
 1. Nome
 2. Escola/Instituição
